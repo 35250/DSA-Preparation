@@ -11,23 +11,23 @@ I am using this repository to:
 
 ## 🧠 Topics & Patterns Covered
 
-### 📦 Core Topics
-- Arrays
-- Strings
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
+ ### 📦 Core Topics
+ - Arrays
+ - Strings
+ - Linked List
+ - Stack & Queue
+ - Trees
+ - Graphs
+ - Dynamic Programming
 
-### 🔁 Important Patterns
-- Recursion & Backtracking
-- Sliding Window
-- Two Pointers
-- Prefix Sum
-- Binary Search on Answer
-- Greedy
-- Union Find (Disjoint Set)
+ ### 🔁 Important Patterns
+ - Recursion & Backtracking
+ - Sliding Window
+ - Two Pointers
+ - Prefix Sum
+ - Binary Search on Answer
+ - Greedy
+ - Union Find (Disjoint Set)
  
 ---
 
