@@ -49,9 +49,9 @@ Inside each folder:
 
 ## 📊 Progress
 
-- Total Problems Solved: 174
+- Total Problems Solved: 175
 - Easy: 45
-- Medium: 110
+- Medium: 111
 - Hard: 19
 
 *(Will be updated regularly)*
